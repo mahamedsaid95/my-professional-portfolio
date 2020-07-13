@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+#about-me-picture {
+    height: 250px; 
+    width: 250px;
+    float: left;
+}
