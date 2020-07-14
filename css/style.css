@@ -1,26 +1,36 @@
 body {
     font-family: 'Caveat', cursive 'Roboto', sans-serif;
 background-color: rgb(130, 192, 255);
-font-size: 18px;
+font-size: 20px;
   line-height: 34px;
 }
 #row-card {
     background: ivory;
     text-align: center;
-    height: 500px   
+    height: 600px
 }
 #about-me-picture {
-    height: 250px; 
+    height: 350px; 
     width: 250px;
     float: left;
     margin-right: 50px;
+    font-size: 8px;
 }
 #about-me-picture2 {
-    height: 250px; 
+    height: 350px; 
     width: 250px;
     float right: ;
 margin-right: 50px;
+text-justify: auto;
   }
+
+  #about-me-picture3 {
+    height: 350px; 
+    width: 500px;
+    float: left;
+    margin-right: 50px;
+    font-size: 8px;
+}
 
 #masterhead {
     position: fixed;
@@ -52,4 +62,22 @@ margin-right: 50px;
     font-size: 28px;
     padding-right: 100px;
     text-align: left;
+}
+
+#main-container {
+    padding-top: 150px;
+    min-height: calc(100vh - 70px);
+  }
+
+  #homies {
+      width: 400px;
+      height: 400px;
+  }
+
+  .work {
+  position: relative;
+  float: left;
+  width: 274px;
+  margin: 20px 0 25px;
+  overflow: auto;
 }
