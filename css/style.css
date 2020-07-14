@@ -11,7 +11,23 @@ background-color: slategrey;
     float: left;
     margin: 20px;
 }
-@media only screen and (max-width:360) {
-    #about-me-picture  {
-        float: none}
-    }  
+
+#masterhead {
+    position: fixed;
+  z-index: 99;
+  width: 100%;
+  margin: 0 0 30px;
+  overflow: auto;
+  color: #ffffff;
+  background: navajowhite;
+  border-bottom: salmon 2px;
+}
+
+#main-container {
+    padding-top: 130px;
+    min-height: calc(100vh - 70px);
+  }
+
+  #mybio {
+      float: left;
+  }
