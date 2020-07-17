@@ -2,7 +2,7 @@
 
  https://mahamedsaid95.github.io/my-professional-portfolio/
 
-![Responsive Portfolio](screenshot1.png)
+![Responsive Portfolio](us.png)
 
 The over view of this assignment was to create a professional portfolio that would be responsive to all media sizes. Primarily from desktop-sized screen, to ipad-sized screen, to a mobile device screen. 
 
