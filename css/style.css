@@ -7,26 +7,18 @@ font-size: 20px;
   background-repeat: no-repeat;
   background-size: cover;
 }
-}
 #row-card {
     background: ivory;
     text-align: center;
     height: 600px
 }
 #about-me-picture {
-    height: 350px; 
-    width: 250px;
+    height: auto; 
+    max-width: 100%;
     float: left;
     margin-right: 50px;
     font-size: 8px;
 }
-#about-me-picture2 {
-    height: 350px; 
-    width: 250px;
-    float right: ;
-margin-right: 50px;
-text-justify: auto;
-  }
 
   #about-me-picture3 {
     height: 350px; 
